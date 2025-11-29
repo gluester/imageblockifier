@@ -17,7 +17,10 @@ Turn any image into a Minecraft build
 this is like my third pyspigot script
 
 # Images
-Input
-![cherry_pie](https://github.com/user-attachments/assets/1b406984-e5d4-4a07-abe8-43b98ce97016)
-Result
+
+### Input (this image was scaled down significantly before being turned into a build)
+![cherry-pie-recipe-image-sq](https://github.com/user-attachments/assets/e2c98609-d75b-42ef-bd73-999b9a12047e)
+
+### Result
+
 <img width="793" height="638" alt="Result" src="https://github.com/user-attachments/assets/818fde7a-fb74-4c09-911a-3198d90376a6" />
